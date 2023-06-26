@@ -1,0 +1,2 @@
+Celo NFT deployed to: 0xF3f85482926E99Beb8B7edbf65fB3d968B80daDA
+NFT Marketplace deployed to: 0xd47FC08eE26Cca405457a608f4496cF8B9Bd9C77
